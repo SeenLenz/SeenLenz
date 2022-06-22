@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeenLenz
-- 👀 I’m interested in Vr, Cyber Security, 
-- 🌱 I’m currently learning Unity, C++ and full stack web development.
+- 👀 I’m interested in Low level development, Cyber Security, etc..
+- 🌱 I’m currently learning Rust and full stack web development.
 - 📫 How to reach me? -> cb20040621@gmail.com
 
 <!---
