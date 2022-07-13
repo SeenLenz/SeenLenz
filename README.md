@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeenLenz
-- 👀 I’m interested in Low level development, Cyber Security, etc..
+- 👀 I’m interested in Low level development, Cyber Security, web development etc..
 - 🌱 I’m currently learning Rust and full stack web development.
 - 📫 How to reach me? -> cb20040621@gmail.com
 
