@@ -24,6 +24,6 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seenlenz&theme=tokyonight&hide_border=true" alt="seenlenz" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="seenlenz" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="seenlenz" /></p>
 
 
