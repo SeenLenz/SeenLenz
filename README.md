@@ -2,13 +2,13 @@
 <h3 align="center">A guy looking to learn it stuff</h3>
 
 <p align="center">
-- 🔭 I’m currently working on [Rsty_decajing_jingle](https://github.com/SeenLenz/Rsty_decajing_jingle)
+🔭 I’m currently working on [Rsty_decajing_jingle](https://github.com/SeenLenz/Rsty_decajing_jingle)
 </p>
 <p align="center">
-- 🌱 I’m currently learning **Rust, Typescript/Javascript, THM**
+🌱 I’m currently learning **Rust, Typescript/Javascript, THM**
 </p>
 <p align="center">
-- 📫 How to reach me **cb20040621@gmail.com**
+📫 How to reach me **cb20040621@gmail.com**
 </p>
 
 <h3 align="center">Connect with me:</h3>
