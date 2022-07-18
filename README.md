@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barnabas</h1>
-<h3 align="center">A guy looking to learn it stuff</h3>
+<h3 align="center">A guy looking to learn IT stuff</h3>
 
 <p align="center">
 🔭 I’m currently working on [Rsty_decajing_jingle](https://github.com/SeenLenz/Rsty_decajing_jingle)
