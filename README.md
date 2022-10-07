@@ -21,10 +21,10 @@
 
 <div class="container" style="width=100%; display: flex; align-items: center; justify-content: space-around;">
 
-    <p><img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=seenlenz&theme=tokyonight&hide_border=true" alt="seenlenz" /></p>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=seenlenz&theme=tokyonight&hide_border=true" alt="seenlenz" />
     
-    <p>&nbsp;<img  width="400px" src="https://github-readme-stats.vercel.app/api?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="seenlenz" /></p>
+    <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="seenlenz" />
     
-    <p><img  width="400px"src="https://github-readme-stats.vercel.app/api/top-langs?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="seenlenz" /></p>
+    <img  width="400px"src="https://github-readme-stats.vercel.app/api/top-langs?username=seenlenz&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="seenlenz" />
     
 </div>
